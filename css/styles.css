@@ -7,8 +7,9 @@
 }
 
 body {
-  width: 210mm;
-  height: 297mm;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #404040;
 }
 
